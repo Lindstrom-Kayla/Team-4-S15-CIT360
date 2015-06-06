@@ -9,7 +9,7 @@ package citbyui.cit360.honeydo.controls;
  *
  * @author dustinjudd
  */
-public class Honeydo {
+public class HoneyDo {
 
     /**
      * @param args the command line arguments

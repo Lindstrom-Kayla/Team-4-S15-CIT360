@@ -9,6 +9,6 @@ package citbyui.cit360.honeydo.models;
  *
  * 
  */
-public class user {
+public class User {
     
 }
